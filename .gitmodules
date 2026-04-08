@@ -1,0 +1,6 @@
+[submodule "src/edge-layer/solarmeter"]
+	path = src/edge-layer/solarmeter
+	url = https://github.com/ahpohl/solarmeter.git
+[submodule "src/edge-layer/libabbaurora"]
+	path = src/edge-layer/libabbaurora
+	url = https://github.com/ahpohl/libabbaurora.git
